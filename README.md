@@ -1,2 +1,2 @@
 # test
-test repo for practise
+test repo for github command demo
